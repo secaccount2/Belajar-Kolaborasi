@@ -1,2 +1,2 @@
 # Belajar-Kolaborasi
-pembuatan commit-1
+pembuatan commit-2
